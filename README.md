@@ -9,7 +9,7 @@ npm run serve
 
 ## Modify or add API Key
 
-Apply API key at https://openweathermap.org/api <br>
+Get API key at https://openweathermap.org/api <br>
 Then modify the App.vue at line 70 where "APPID = ur apikey"
 
 ## Sample result 
